@@ -1,3 +1,6 @@
+Если папка Buysell-Lesson8 пустая нужно скачать репозиторий по ссылке https://github.com/master1minder/FirstTrack и дальше все запуститься
+
+
 1)собрать докер контейнер Buysell-Lesson8 и spring-ws-server
 docker build -t server:latest .
 docker build -t spring-ws-server:latest .
