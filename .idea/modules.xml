@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WDT.iml" filepath="$PROJECT_DIR$/.idea/WDT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Buysell-Lesson8/buysell.iml" filepath="$PROJECT_DIR$/Buysell-Lesson8/buysell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ws-server/chat.iml" filepath="$PROJECT_DIR$/spring-ws-server/chat.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+1)собрать докер контейнер Buysell-Lesson8 и spring-ws-server
+docker build -t server:latest .
+docker build -t spring-ws-server:latest .
+2)запустить докер контейнеры docker build
+docker images
+docker run spring-ws-server
+docker run server
+3)запустить фронт в папке react-client
+npm run start
